@@ -12,11 +12,11 @@ import (
 	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
 
-	"github.com/tharsis/ethermint/app"
-	"github.com/tharsis/ethermint/crypto/ethsecp256k1"
-	"github.com/tharsis/ethermint/encoding"
-	ethermint "github.com/tharsis/ethermint/types"
-	"github.com/tharsis/ethermint/x/evm/types"
+	"github.com/jiujiteiro/ethermint/app"
+	"github.com/jiujiteiro/ethermint/crypto/ethsecp256k1"
+	"github.com/jiujiteiro/ethermint/encoding"
+	ethermint "github.com/jiujiteiro/ethermint/types"
+	"github.com/jiujiteiro/ethermint/x/evm/types"
 
 	"github.com/ethereum/go-ethereum/common"
 	ethcmn "github.com/ethereum/go-ethereum/common"

@@ -14,10 +14,10 @@ import (
 	"github.com/cosmos/cosmos-sdk/crypto/keyring"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/tharsis/ethermint/app"
-	"github.com/tharsis/ethermint/crypto/ethsecp256k1"
-	"github.com/tharsis/ethermint/tests"
-	"github.com/tharsis/ethermint/x/evm"
+	"github.com/jiujiteiro/ethermint/app"
+	"github.com/jiujiteiro/ethermint/crypto/ethsecp256k1"
+	"github.com/jiujiteiro/ethermint/tests"
+	"github.com/jiujiteiro/ethermint/x/evm"
 
 	tmproto "github.com/tendermint/tendermint/proto/tendermint/types"
 )

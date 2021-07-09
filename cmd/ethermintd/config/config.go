@@ -4,7 +4,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/server/config"
 	"github.com/spf13/viper"
 
-	ethermint "github.com/tharsis/ethermint/types"
+	ethermint "github.com/jiujiteiro/ethermint/types"
 )
 
 const (

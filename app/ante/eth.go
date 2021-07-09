@@ -8,8 +8,8 @@ import (
 	authante "github.com/cosmos/cosmos-sdk/x/auth/ante"
 	"github.com/palantir/stacktrace"
 
-	ethermint "github.com/tharsis/ethermint/types"
-	evmtypes "github.com/tharsis/ethermint/x/evm/types"
+	ethermint "github.com/jiujiteiro/ethermint/types"
+	evmtypes "github.com/jiujiteiro/ethermint/x/evm/types"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core"

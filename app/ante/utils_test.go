@@ -21,12 +21,12 @@ import (
 	authtx "github.com/cosmos/cosmos-sdk/x/auth/tx"
 	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
 
-	"github.com/tharsis/ethermint/app"
-	ante "github.com/tharsis/ethermint/app/ante"
-	"github.com/tharsis/ethermint/crypto/ethsecp256k1"
-	"github.com/tharsis/ethermint/encoding"
-	"github.com/tharsis/ethermint/tests"
-	evmtypes "github.com/tharsis/ethermint/x/evm/types"
+	"github.com/jiujiteiro/ethermint/app"
+	ante "github.com/jiujiteiro/ethermint/app/ante"
+	"github.com/jiujiteiro/ethermint/crypto/ethsecp256k1"
+	"github.com/jiujiteiro/ethermint/encoding"
+	"github.com/jiujiteiro/ethermint/tests"
+	evmtypes "github.com/jiujiteiro/ethermint/x/evm/types"
 
 	tmproto "github.com/tendermint/tendermint/proto/tendermint/types"
 )

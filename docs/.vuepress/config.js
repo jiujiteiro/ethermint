@@ -67,7 +67,7 @@ module.exports = {
           title: 'Resources',
           children: [{
               title: 'Ethermint API Reference',
-              path: 'https://godoc.org/github.com/tharsis/ethermint'
+              path: 'https://godoc.org/github.com/jiujiteiro/ethermint'
             },
             {
               title: 'Cosmos REST API Spec',
@@ -110,7 +110,7 @@ module.exports = {
       },
       services: [{
           service: 'github',
-          url: 'https://github.com/tharsis/ethermint'
+          url: 'https://github.com/jiujiteiro/ethermint'
         }
       ],
       smallprint: 'This website is maintained by Tharsis.',
@@ -146,11 +146,11 @@ module.exports = {
           title: 'Contributing',
           children: [{
               title: 'Contributing to the docs',
-              url: 'https://github.com/tharsis/ethermint/tree/main/docs'
+              url: 'https://github.com/jiujiteiro/ethermint/tree/main/docs'
             },
             {
               title: 'Source code on GitHub',
-              url: 'https://github.com/tharsis/ethermint/blob/main/docs/DOCS_README.md'
+              url: 'https://github.com/jiujiteiro/ethermint/blob/main/docs/DOCS_README.md'
             }
           ]
         }

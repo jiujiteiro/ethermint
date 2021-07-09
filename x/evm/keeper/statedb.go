@@ -13,8 +13,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/store/prefix"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	ethermint "github.com/tharsis/ethermint/types"
-	"github.com/tharsis/ethermint/x/evm/types"
+	ethermint "github.com/jiujiteiro/ethermint/types"
+	"github.com/jiujiteiro/ethermint/x/evm/types"
 )
 
 var _ vm.StateDB = &Keeper{}

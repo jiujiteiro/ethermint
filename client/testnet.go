@@ -39,10 +39,10 @@ import (
 	mintypes "github.com/cosmos/cosmos-sdk/x/mint/types"
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
 
-	"github.com/tharsis/ethermint/cmd/ethermintd/config"
-	"github.com/tharsis/ethermint/crypto/hd"
-	ethermint "github.com/tharsis/ethermint/types"
-	evmtypes "github.com/tharsis/ethermint/x/evm/types"
+	"github.com/jiujiteiro/ethermint/cmd/ethermintd/config"
+	"github.com/jiujiteiro/ethermint/crypto/hd"
+	ethermint "github.com/jiujiteiro/ethermint/types"
+	evmtypes "github.com/jiujiteiro/ethermint/x/evm/types"
 )
 
 var (

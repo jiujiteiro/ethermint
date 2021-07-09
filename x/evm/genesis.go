@@ -8,9 +8,9 @@ import (
 	ethcmn "github.com/ethereum/go-ethereum/common"
 	abci "github.com/tendermint/tendermint/abci/types"
 
-	ethermint "github.com/tharsis/ethermint/types"
-	"github.com/tharsis/ethermint/x/evm/keeper"
-	"github.com/tharsis/ethermint/x/evm/types"
+	ethermint "github.com/jiujiteiro/ethermint/types"
+	"github.com/jiujiteiro/ethermint/x/evm/keeper"
+	"github.com/jiujiteiro/ethermint/x/evm/types"
 )
 
 // InitGenesis initializes genesis state based on exported genesis

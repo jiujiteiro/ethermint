@@ -13,7 +13,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/telemetry"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/tharsis/ethermint/x/evm/types"
+	"github.com/jiujiteiro/ethermint/x/evm/types"
 )
 
 var _ types.MsgServer = &Keeper{}

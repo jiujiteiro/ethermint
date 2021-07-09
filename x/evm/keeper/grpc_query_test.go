@@ -12,8 +12,8 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	ethermint "github.com/tharsis/ethermint/types"
-	"github.com/tharsis/ethermint/x/evm/types"
+	ethermint "github.com/jiujiteiro/ethermint/types"
+	"github.com/jiujiteiro/ethermint/x/evm/types"
 
 	grpctypes "github.com/cosmos/cosmos-sdk/types/grpc"
 )

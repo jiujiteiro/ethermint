@@ -13,8 +13,8 @@ import (
 	"github.com/palantir/stacktrace"
 	"github.com/tendermint/tendermint/libs/log"
 
-	ethermint "github.com/tharsis/ethermint/types"
-	"github.com/tharsis/ethermint/x/evm/types"
+	ethermint "github.com/jiujiteiro/ethermint/types"
+	"github.com/jiujiteiro/ethermint/x/evm/types"
 )
 
 // Keeper wraps the CommitStateDB, allowing us to pass in SDK context while adhering

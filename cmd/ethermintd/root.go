@@ -32,11 +32,11 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/crisis"
 	genutilcli "github.com/cosmos/cosmos-sdk/x/genutil/client/cli"
 
-	"github.com/tharsis/ethermint/app"
-	ethermintclient "github.com/tharsis/ethermint/client"
-	ethermintconfig "github.com/tharsis/ethermint/cmd/ethermintd/config"
-	"github.com/tharsis/ethermint/encoding"
-	"github.com/tharsis/ethermint/server"
+	"github.com/jiujiteiro/ethermint/app"
+	ethermintclient "github.com/jiujiteiro/ethermint/client"
+	ethermintconfig "github.com/jiujiteiro/ethermint/cmd/ethermintd/config"
+	"github.com/jiujiteiro/ethermint/encoding"
+	"github.com/jiujiteiro/ethermint/server"
 )
 
 // NewRootCmd creates a new root command for simd. It is called once in the

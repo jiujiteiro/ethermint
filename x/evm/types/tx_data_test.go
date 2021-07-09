@@ -9,7 +9,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/tharsis/ethermint/tests"
+	"github.com/jiujiteiro/ethermint/tests"
 )
 
 func TestTxData_chainID(t *testing.T) {

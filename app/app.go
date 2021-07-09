@@ -93,14 +93,14 @@ import (
 	ibckeeper "github.com/cosmos/ibc-go/modules/core/keeper"
 
 	// unnamed import of statik for swagger UI support
-	_ "github.com/tharsis/ethermint/client/docs/statik"
+	_ "github.com/jiujiteiro/ethermint/client/docs/statik"
 
-	"github.com/tharsis/ethermint/app/ante"
-	ethermint "github.com/tharsis/ethermint/types"
-	"github.com/tharsis/ethermint/x/evm"
-	evmrest "github.com/tharsis/ethermint/x/evm/client/rest"
-	evmkeeper "github.com/tharsis/ethermint/x/evm/keeper"
-	evmtypes "github.com/tharsis/ethermint/x/evm/types"
+	"github.com/jiujiteiro/ethermint/app/ante"
+	ethermint "github.com/jiujiteiro/ethermint/types"
+	"github.com/jiujiteiro/ethermint/x/evm"
+	evmrest "github.com/jiujiteiro/ethermint/x/evm/client/rest"
+	evmkeeper "github.com/jiujiteiro/ethermint/x/evm/keeper"
+	evmtypes "github.com/jiujiteiro/ethermint/x/evm/types"
 )
 
 func init() {

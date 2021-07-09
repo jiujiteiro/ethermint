@@ -9,7 +9,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
 	ethtypes "github.com/ethereum/go-ethereum/core/types"
-	"github.com/tharsis/ethermint/x/evm/types"
+	"github.com/jiujiteiro/ethermint/x/evm/types"
 )
 
 // BeginBlock sets the block hash -> block height map for the previous block height
