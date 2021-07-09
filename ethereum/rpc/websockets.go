@@ -11,7 +11,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/eth/filters"
 
-	rpcfilters "github.com/tharsis/ethermint/ethereum/rpc/namespaces/eth/filters"
+	rpcfilters "github.com/jiujiteiro/ethermint/ethereum/rpc/namespaces/eth/filters"
 
 	"github.com/gorilla/mux"
 	"github.com/gorilla/websocket"
@@ -25,8 +25,8 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/rpc"
 
-	"github.com/tharsis/ethermint/ethereum/rpc/types"
-	evmtypes "github.com/tharsis/ethermint/x/evm/types"
+	"github.com/jiujiteiro/ethermint/ethereum/rpc/types"
+	evmtypes "github.com/jiujiteiro/ethermint/x/evm/types"
 )
 
 type WebsocketsServer interface {

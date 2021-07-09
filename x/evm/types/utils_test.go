@@ -5,7 +5,7 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	proto "github.com/gogo/protobuf/proto"
-	"github.com/tharsis/ethermint/crypto/ethsecp256k1"
+	"github.com/jiujiteiro/ethermint/crypto/ethsecp256k1"
 
 	"github.com/stretchr/testify/require"
 

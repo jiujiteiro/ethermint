@@ -30,9 +30,9 @@ import (
 	genutiltypes "github.com/cosmos/cosmos-sdk/x/genutil/types"
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
 
-	"github.com/tharsis/ethermint/ethereum/rpc"
-	ethsrv "github.com/tharsis/ethermint/server"
-	ethermint "github.com/tharsis/ethermint/types"
+	"github.com/jiujiteiro/ethermint/ethereum/rpc"
+	ethsrv "github.com/jiujiteiro/ethermint/server"
+	ethermint "github.com/jiujiteiro/ethermint/types"
 )
 
 func startInProcess(cfg Config, val *Validator) error {

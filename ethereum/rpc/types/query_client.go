@@ -10,7 +10,7 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/client"
 
-	evmtypes "github.com/tharsis/ethermint/x/evm/types"
+	evmtypes "github.com/jiujiteiro/ethermint/x/evm/types"
 )
 
 // QueryClient defines a gRPC Client used for:

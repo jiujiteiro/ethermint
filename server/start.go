@@ -39,8 +39,8 @@ import (
 	ethlog "github.com/ethereum/go-ethereum/log"
 	ethrpc "github.com/ethereum/go-ethereum/rpc"
 
-	"github.com/tharsis/ethermint/cmd/ethermintd/config"
-	"github.com/tharsis/ethermint/ethereum/rpc"
+	"github.com/jiujiteiro/ethermint/cmd/ethermintd/config"
+	"github.com/jiujiteiro/ethermint/ethereum/rpc"
 )
 
 // Tendermint full-node start flags

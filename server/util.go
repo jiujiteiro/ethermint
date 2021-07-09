@@ -15,7 +15,7 @@ import (
 
 	rpcclient "github.com/tendermint/tendermint/rpc/jsonrpc/client"
 
-	"github.com/tharsis/ethermint/app"
+	"github.com/jiujiteiro/ethermint/app"
 )
 
 // add server commands

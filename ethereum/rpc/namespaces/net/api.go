@@ -3,7 +3,7 @@ package net
 import (
 	"fmt"
 
-	ethermint "github.com/tharsis/ethermint/types"
+	ethermint "github.com/jiujiteiro/ethermint/types"
 
 	"github.com/cosmos/cosmos-sdk/client"
 )

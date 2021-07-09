@@ -5,14 +5,14 @@ package rpc
 import (
 	"github.com/cosmos/cosmos-sdk/client"
 	"github.com/ethereum/go-ethereum/rpc"
-	"github.com/tharsis/ethermint/ethereum/rpc/backend"
-	"github.com/tharsis/ethermint/ethereum/rpc/namespaces/eth"
-	"github.com/tharsis/ethermint/ethereum/rpc/namespaces/eth/filters"
-	"github.com/tharsis/ethermint/ethereum/rpc/namespaces/net"
-	"github.com/tharsis/ethermint/ethereum/rpc/namespaces/personal"
-	"github.com/tharsis/ethermint/ethereum/rpc/namespaces/txpool"
-	"github.com/tharsis/ethermint/ethereum/rpc/namespaces/web3"
-	"github.com/tharsis/ethermint/ethereum/rpc/types"
+	"github.com/jiujiteiro/ethermint/ethereum/rpc/backend"
+	"github.com/jiujiteiro/ethermint/ethereum/rpc/namespaces/eth"
+	"github.com/jiujiteiro/ethermint/ethereum/rpc/namespaces/eth/filters"
+	"github.com/jiujiteiro/ethermint/ethereum/rpc/namespaces/net"
+	"github.com/jiujiteiro/ethermint/ethereum/rpc/namespaces/personal"
+	"github.com/jiujiteiro/ethermint/ethereum/rpc/namespaces/txpool"
+	"github.com/jiujiteiro/ethermint/ethereum/rpc/namespaces/web3"
+	"github.com/jiujiteiro/ethermint/ethereum/rpc/types"
 
 	rpcclient "github.com/tendermint/tendermint/rpc/jsonrpc/client"
 )
